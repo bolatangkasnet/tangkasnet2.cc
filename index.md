@@ -10,6 +10,8 @@ Agar dapat memberikan pengalaman permainan bola tangkas tangkasnet2 yang menarik
 
 ### Download Aplikasi Tangkasnet2 Terbaru
 
+![Download](https://github.com/bolatangkasnet/tangkasnet2.cc/blob/master/btn-dwnld-1.png?raw=true)
+
 Pastikanlah selalu update aplikasi tangkasnet2 anda.
 
 ### Tangkasnet2
