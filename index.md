@@ -1,4 +1,4 @@
-![Image](src)
+![Logo](https://github.com/bolatangkasnet/tangkasnet2.cc/blob/master/t2-web-logo.jpg?raw=true)
 
 ## Informasi Update Terbaru Permainan Tangkasnet2
 
