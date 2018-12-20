@@ -6,6 +6,8 @@ Belakangan ini permainan tangkasnet2 telah mengalami perkembangan pemain yang me
 
 Agar dapat memberikan pengalaman permainan bola tangkas tangkasnet2 yang menarik bagi para pemain , tangkasnet2 selalu melakukan pembaharuan atau update secara berkala terhadap aplikasi tangkasnet2 untuk memberikan kelancaran dan kepuasan bermain bagi para member setia tangkasnet2.
 
+![Logo](https://github.com/bolatangkasnet/tangkasnet2.cc/blob/master/t2-web-logo.jpg?raw=true)
+
 ### Download Aplikasi Tangkasnet2 Terbaru
 
 Pastikanlah selalu update aplikasi tangkasnet2 anda.
