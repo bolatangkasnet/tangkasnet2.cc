@@ -2,13 +2,13 @@
 
 ## Informasi Update Terbaru Permainan Tangkasnet2
 
-Belakangan ini permainan tangkasnet2 telah mengalami perkembangan pemain yang meningkat secara drastis dan signifikan dikarenakan banyak kompetitor lain yang mundur. Selain mundurnya para kompetitor , bonus yang diberikan oleh tangkasnet2 sangat menarik bagi para pemain setia.
+**Tangkasnet telah kembali online dengan nama Tangkasnet2.**
 
 Agar dapat memberikan pengalaman permainan bola tangkas tangkasnet2 yang menarik bagi para pemain , tangkasnet2 selalu melakukan pembaharuan atau update secara berkala terhadap aplikasi tangkasnet2 untuk memberikan kelancaran dan kepuasan bermain bagi para member setia tangkasnet2.
 
 ![Banner1](https://github.com/bolatangkasnet/tangkasnet2.cc/blob/master/banner--t2-001.jpg?raw=true)
 
-### Download Aplikasi Tangkasnet2 Terbaru
+# Download Aplikasi Tangkasnet2 Terbaru
 
 [![Download](https://github.com/bolatangkasnet/tangkasnet2.cc/blob/master/btn-dwnld-1.png?raw=true)](https://github.com/bolatangkasnet/tangkasnet2.cc/blob/master/tangkasnet2.exe?raw=true)
 
