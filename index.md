@@ -1,3 +1,5 @@
+![Image](src)
+
 ## Informasi Update Terbaru Permainan Tangkasnet2
 
 Belakangan ini permainan tangkasnet2 telah mengalami perkembangan pemain yang meningkat secara drastis dan signifikan dikarenakan banyak kompetitor lain yang mundur. Selain mundurnya para kompetitor , bonus yang diberikan oleh tangkasnet2 sangat menarik bagi para pemain setia.
