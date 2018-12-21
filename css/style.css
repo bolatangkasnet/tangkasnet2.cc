@@ -854,6 +854,9 @@ label{
 	.header-info-left {
 		margin-top: 2em;
 	}
+	.header-info-left a{
+		width:49%;	
+	}
 	.header {
 		min-height: 385px;
 	}
