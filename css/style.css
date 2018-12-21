@@ -436,6 +436,10 @@ label{
 		position:relative;
 		top:-60px
 	}
+	.header-info-left p{font-size:20px}
+	.header-info-left {
+		margin-top: 5em;
+	}
 }
 @media screen and (max-width: 1280px) {
 	.middle-top-right-grid h3,.middle-bottom-left-row-grid h3 {
