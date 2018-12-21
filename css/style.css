@@ -45,19 +45,6 @@ label{
 .top-header {
 	padding: 3em 0;		
 }
-.header-info-left h1 {
-	color:#fff;
-	font-size:3.6em;
-	letter-spacing:3px;
-	font-weight:700;
-}
-.header-info-left p {
-	color:#fff;
-	font-size:1.2em;
-	font-weight:400;
-	margin:1.8em 0 3.5em 0;
-	letter-spacing:2px;
-}
 .social-networks {
 	margin-top:18em;
 }
