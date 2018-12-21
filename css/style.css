@@ -444,6 +444,7 @@ label{
 		font-size: 3.2em;
 		letter-spacing: 2px;
 	}
+	.header-info-left p{font-size:20px}
 	.header-info-left {
 		margin-top: 11em;
 	}
@@ -851,7 +852,7 @@ label{
 		letter-spacing: 0px;
 	}
 	.header-info-left {
-		margin-top: 4em;
+		margin-top: 2em;
 	}
 	.header {
 		min-height: 385px;
