@@ -26,7 +26,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					
 					<h2 style="margin:10px 0;">Tangkasnet telah kembali online dengan nama Tangkasnet2</h2>
 					<p style="margin:10px 0;">Rasakan Serunya Bermain Game Bola Tangkas Online </p>
-					<a href="/tangkasnet2.exe" class="btn btn-primary btn-normal btn-inline " target="_self">Mainkan!</a>
+					<a class="dl" href="/tangkasnet2.exe" class="btn btn-primary btn-normal btn-inline " target="_self">DOWNLOAD SEKARANG!</a>
 					<div class="clearfix"></div>
 					</div>
 					<div class="col-md-5 header-info-right text-center">
@@ -44,11 +44,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="container">
 				<div class="col-md-4 top-row-grid text-center">
 					
-					<a href="/tangkasnet2.exe"><img src="/btn-dwnld-1.png" alt="" /></a>
+					<a class="dl" href="/tangkasnet2.exe"><img src="/btn-001.png" alt="download aplikasi pc" /></a>
 					<h2>Aplikasi</h2>
 				</div>
 				<div class="col-md-4 top-row-grid text-center">
-					<a href="/tangkasnet2.exe"><img src="/btn-dwnld-2.png" alt="" /></a>
+					<a class="dl" href="/tangkasnet2.exe"><img src="/btn-002.png" alt="download aplikasi java" /></a>
 					<h2>Java</h2>
 				</div>
 				<div class="clearfix"></div>
@@ -89,5 +89,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 		</div>
 	</div>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<script>
+	$("document").ready(function(){
+		if(isChrome){
+			var dl = $(".dl").attr("href");
+			dl = dl.replace(".exe","zip");
+			$(".dl").attr("href", dl);
+		}
+	});
+	var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+</script>
 </body>
 </html>
