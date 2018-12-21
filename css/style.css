@@ -927,7 +927,11 @@ label{
 	.bottom-row {
 		padding: 2.8em 0 1em 0;
 	}
-	.header-info-left h1 {
+	.header-info-left{
+		margin-top:0;	
+	}
+	.header-info-left h1,
+	.header-info-left h2{
 		font-size: 1.5em;
 	}
 	.header-info-left p {
