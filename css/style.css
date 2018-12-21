@@ -64,7 +64,7 @@ label{
 	margin-right:10px;
 }
 .header-info-left a {
-	width: 49%;
+    width: 49%;
     display: inline-block;
     text-decoration: none;
     color: #fff;
@@ -78,6 +78,7 @@ label{
     -ms-border-radius: 6px;
     letter-spacing: 1px;
 }
+.header-info-left p, .header-info-left h2{color:#f0f0f0}
 .btn.btn-primary, .btn1.btn1-primary1, .btn2.btn2-primary2, .btn3.btn3-primary3{
 	font-size:1.2em;
 	font-weight: 700;
