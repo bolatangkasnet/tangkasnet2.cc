@@ -64,14 +64,12 @@ label{
 	margin-right:10px;
 }
 .header-info-left a {
-	width: 48%;
+	width: 49%;
     display: inline-block;
     text-decoration: none;
     color: #fff;
-    margin: 0 0.5%;
     font-size: 1.2em;
     font-weight: 700;
-    padding: 14px 14px;
     background: #4b707e;
     border-radius: 6px;
     -webkit-border-radius: 6px;
