@@ -431,6 +431,12 @@ label{
 		margin-top: 0em;
 	}
 }
+@media screen and (min-width:1024px){
+	.header-info-right img {
+		position:relative;
+		top:-60px
+	}
+}
 @media screen and (max-width: 1280px) {
 	.middle-top-right-grid h3,.middle-bottom-left-row-grid h3 {
 		font-size: 3em;
@@ -438,8 +444,6 @@ label{
 	}
 	.header-info-right img {
 		width: 67%;
-		position:relative;
-		top:-60px
 	}
 	.header-info-left h1 {
 		font-size: 3.2em;
