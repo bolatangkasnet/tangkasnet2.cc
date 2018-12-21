@@ -938,8 +938,9 @@ label{
 		margin: 1em 0 1.6em 0;
 		font-size: 0.9em;
 	}
-	.header-info-left {
-		margin-top: 3em;
+	.header-info-left a{
+		width:85%;
+		margin:5px 0
 	}
 	.btn.btn-primary, .btn1.btn1-primary1, .btn2.btn2-primary2, .btn3.btn3-primary3 {
 		font-size: 0.875em;
